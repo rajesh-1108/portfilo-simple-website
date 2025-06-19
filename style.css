@@ -5,13 +5,9 @@
 body{
      font-family: "Rubik", sans-serif;
 }
-@media screen and (max-width:600px) {
-    .container{
-        display: block;
-    }
-} {
+
     
-}
+
 .container h1,p{
     text-transform: capitalize;
     padding-bottom: 5px;
